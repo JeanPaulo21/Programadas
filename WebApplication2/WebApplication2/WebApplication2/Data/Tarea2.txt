@@ -1,0 +1,38 @@
+Tablas
+---------------------------
+Customer
+ID
+Nombre 
+Apellidos
+---------------------------
+Product
+ID
+Nombre
+Descripcion
+---------------------------
+Supplier
+ID
+Nombre
+Descripcion
+
+/////////////////////////////
+Visual Studio
+--------------------------
+Base de datos 
+-Conexion
+-Data 
+---------------------------
+Controller
+-Customer (metodos)
+-Product  (metodos)
+-suppliers(metodos)
+---------------------------
+Modelo
+-Customer  (atributos)
+-Product   (atributos)
+-suppliers (atributos)
+---------------------------
+Views
+-Customer  (lista, create, delete)
+-Product   (lista, create, delete)
+-suppliers (lista, create, delete)
