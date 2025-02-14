@@ -36,3 +36,6 @@ Views
 -Customer  (lista, create, delete)
 -Product   (lista, create, delete)
 -suppliers (lista, create, delete)
+
+Integrantes 
+Jean Paulo Monge Alfaro
