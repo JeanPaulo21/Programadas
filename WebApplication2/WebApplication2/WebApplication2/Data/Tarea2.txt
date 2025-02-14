@@ -19,23 +19,23 @@ Descripcion
 Visual Studio
 --------------------------
 Base de datos 
--Conexion
+-Conexion-Adriel
 -Data 
 ---------------------------
 Controller
--Customer (metodos)
+-Customer (metodos) -Edson
 -Product  (metodos)
--suppliers(metodos)
+-suppliers(metodos) -Cris
 ---------------------------
 Modelo
--Customer  (atributos)
+-Customer  (atributos)-EDSON
 -Product   (atributos)
--suppliers (atributos)
+-suppliers (atributos)-Cris
 ---------------------------
 Views
--Customer  (lista, create, delete)
+-Customer  (lista, create, delete)-Jean
 -Product   (lista, create, delete)
--suppliers (lista, create, delete)
+-suppliers (lista, create, delete)-Jean
 
 Integrantes 
 Jean Paulo Monge Alfaro
