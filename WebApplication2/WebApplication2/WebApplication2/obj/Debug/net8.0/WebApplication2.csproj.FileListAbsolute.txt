@@ -1,0 +1,79 @@
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.runtime.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.exe
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.deps.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.runtimeconfig.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication2.bundle.scp.css
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
+C:\Users\Marlon\source\repos\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.endpoints.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.exe
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.deps.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.runtimeconfig.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication2.bundle.scp.css
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
+C:\Users\Usuario\Documents\VI cuatri(5 materias)\programacion avanzada\semanas\4\WebApplication2\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
